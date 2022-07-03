@@ -1,0 +1,16 @@
+#Tidyverse
+
+library(tidyverse)
+library(lubridate)
+
+#Print Todays Date
+print(today())
+
+#Print Date time
+print(now())
+
+#Convert a String Data to a Date
+variable_string <- "2012-12-01"
+variable_date <- ymd(variable_string)
+print(variable_date)
+
