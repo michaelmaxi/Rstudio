@@ -6,6 +6,9 @@ https://rstudio.cloud
 Online support
 https://www.rfordatasci.com/
 
+R Guides
+https://github.com/rstudio/cheatsheets
+
 Let's go on packages
 1. https://www.tidyverse.org/
 2. https://cran.r-project.org/
