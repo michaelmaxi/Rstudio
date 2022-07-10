@@ -3,6 +3,9 @@
 An online IDE for Data Analysis & Statistical Analysis 
 https://rstudio.cloud
 
+Online support
+https://www.rfordatasci.com/
+
 Let's go on packages
 1. https://www.tidyverse.org/
 2. https://cran.r-project.org/
