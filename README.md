@@ -1,5 +1,8 @@
 # R studio
 
+Follow my journey on Google Data Analyst Professional Course Qualifications in R
+https://www.coursera.org/account/accomplishments/verify/9NSFAG99TEZP
+
 An online IDE for Data Analysis & Statistical Analysis 
 https://rstudio.cloud
 
