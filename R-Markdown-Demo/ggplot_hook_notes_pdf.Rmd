@@ -1,0 +1,21 @@
+---
+title: "ggplot_hook"
+author: "Michael"
+date: '2022-07-10'
+output: pdf_document
+---
+
+## Let's look at R Markdown files *.rmd & how we can easily generate a HTML file for our results
+Notes: Setting up my R environment by loading 'ggplot' & 'palmerpenguins" packages
+
+```{r ggplot for Penguin Data}
+library(ggplot2)
+library(palmerpenguins)
+```
+
+Notes: Producing Visualization
+```{r Visualization of Penguin Data with ggplot}
+ggplot(data = penguins) +
+  geom_point(mapping = aes(x = flipper_length_mm, y = body_mass_g, color=species))
+```
+
